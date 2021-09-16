@@ -1,4 +1,4 @@
-# Mailchimp Tests
+# 🐵 Mailchimp Tests
 Proof of concept of Mailchimp's Transactional API 
 
 This is meant for Grasshopperfund use, though this repository does not have code used in implementation. 
