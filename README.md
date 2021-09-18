@@ -2,7 +2,11 @@
 Proof of concept of Mailchimp's Transactional API 
 
 This is meant for Grasshopperfund use, though this repository does not have code used in implementation. 
-This can be referred to compare the purpose and functionality of MailChimp APIs, including a third-party Python wrapper by VingtCinq. 
+This can be referred to compare the purpose and functionality of the following Mailchimp APIs:
+
+* [The Official Mailchimp Marketing Python API](https://github.com/mailchimp/mailchimp-marketing-python)
+* [The Official Mailchimp Transactional Python API](https://github.com/mailchimp/mailchimp-transactional-python)
+* [Third Party Vingt Cinq Mailchimp Marketing Python API](https://github.com/VingtCinq/python-mailchimp)
 
 
 ## Installation
