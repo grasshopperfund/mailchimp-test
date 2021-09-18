@@ -20,3 +20,5 @@ mailchimp_marketing_api.set_config({
     "api_key": MAILCHIMP_MARKETING_API_KEY,
     "server": MAILCHIMP_SERVER_PREFIX
 })
+
+MAILCHIMP_LIST_ID = os.getenv("MAILCHIMP_LIST_ID")
