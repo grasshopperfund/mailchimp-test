@@ -22,3 +22,4 @@ mailchimp_marketing_api.set_config({
 })
 
 MAILCHIMP_LIST_ID = os.getenv("MAILCHIMP_LIST_ID")
+RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
